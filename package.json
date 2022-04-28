@@ -1,0 +1,23 @@
+{
+  "name": "web-to-pdf-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "jsdom": "^19.0.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-pdf": "^1.1.5",
+    "md-to-pdf": "^5.1.0",
+    "nodemon": "^2.0.15",
+    "slugify": "^1.6.5",
+    "turndown": "^7.1.1"
+  }
+}

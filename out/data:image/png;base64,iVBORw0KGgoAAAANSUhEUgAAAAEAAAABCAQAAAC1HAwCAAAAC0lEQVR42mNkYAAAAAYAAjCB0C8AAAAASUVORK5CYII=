@@ -1,0 +1,280 @@
+<!doctype html><html
+class="no-js" lang="en"><head><meta
+charset="utf-8"><meta
+http-equiv="x-ua-compatible" content="ie=edge"><meta
+name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link
+rel="preload" href="/dist/css/app.107.css" as="style"><link
+rel="stylesheet" href="/dist/css/app.107.css"><link
+rel="icon" href="https://builtformars.com/dist/images/favicon.png?v=10" sizes="192x192" /><link
+rel="apple-touch-icon" href="https://builtformars.com/dist/images/favicon.png?v=10" /><meta
+name="msapplication-TileImage" content="https://builtformars.com/dist/images/favicon.png?v=10" /> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146950285-1"></script> <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-146950285-1');</script> <link
+rel="alternate" type="application/rss+xml" href="https://builtformars.com/feed.rss"><link
+rel="alternate" type="application/atom+xml" href="https://builtformars.com/feed.atom"><title>Built for Mars — UX case studies</title><meta name="generator" content="SEOmatic">
+<meta name="keywords" content="ux,user experience,case study,case studies">
+<meta name="description" content="On a mission to help the world build better user experiences by demystifying UX. Thousands of hours of research packed into UX case studies.">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="none">
+<meta content="en_GB" property="og:locale">
+<meta content="Built for Mars" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="Built for Mars — UX case studies" property="og:title">
+<meta content="On a mission to help the world build better user experiences by demystifying UX. Thousands of hours of research packed into UX case studies." property="og:description">
+<meta content="https://builtformars.com/uploads/images/_1200x630_crop_center-center_82_none/BuiltforMars-socialimage.jpg?mtime=1622120106" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="UX matters" property="og:image:alt">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@Builtformars">
+<meta name="twitter:creator" content="@Builtformars">
+<meta name="twitter:title" content="Built for Mars — UX case studies">
+<meta name="twitter:description" content="On a mission to help the world build better user experiences by demystifying UX. Thousands of hours of research packed into UX case studies.">
+<meta name="twitter:image" content="https://builtformars.com/uploads/images/_800x418_crop_center-center_82_none/BuiltforMars-socialimage.jpg?mtime=1622120106">
+<meta name="twitter:image:width" content="800">
+<meta name="twitter:image:height" content="418">
+<meta name="twitter:image:alt" content="UX matters">
+<link href="https://builtformars.com" rel="home">
+<link type="text/plain" href="https://builtformars.com/humans.txt" rel="author">
+<link href="https://builtformars.com/freeform/plugin.css?v=ac7ec6ff2a861f36a476cabb10430036545bc25f" rel="stylesheet"></head><body><header
+class="site-header z-index-500"><div
+class="container-lg"><div
+class="d-flex py-2 py-lg-0 align-items-center"><div
+class="site-header__branding lead ">
+<a
+class="no-decoration site-logo" href="/" style="max-height:16.125px">
+<img
+src="https://builtformars.com/uploads/images/bfm-light-svg.svg" class="light-only" alt='Logo' width='125px' height='16.125px'/>
+<img
+src="https://builtformars.com/uploads/images/bfm-dark-svg_2021-06-08-063506.svg" class="dark-only" alt='Logo' width='125px' height='16.125px'/>
+</a></div><div
+class="site-header__navigation d-none d-lg-block "><ul
+class="d-flex m-0 p-0 no-style site-header__navigation__list"><li
+class="ml-4 site-header__navigation__list__item                                                                                                                                                                                                                                         not-highlighted
+">
+<a
+class="no-decoration" href="https://builtformars.com/">UX case studies</a></li><li
+class="ml-4 site-header__navigation__list__item
+not-highlighted
+">
+<a
+class="no-decoration" href="https://builtformars.com/about">About</a></li><li
+class="ml-4 site-header__navigation__list__item
+not-highlighted
+">
+<a
+class="no-decoration" href="https://builtformars.com/audits">Get a UX audit</a></li></ul></div><div
+class="site-header__buttons ml-auto d-flex align-items-center"><div
+class="d-none d-lg-block mr-3"><div>
+<button
+class="small light-only font-weight-bold theme-switch theme-switch--light">
+<span
+class="text-primary bg-white">Light</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="moon" class="svg-inline--fa fa-moon fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#8c8f94" d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"></path></svg>
+</button>
+<button
+class="small dark-only font-weight-bold theme-switch theme-switch--dark">
+<span
+class="text-white bg-dark">Dark</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sun" class="svg-inline--fa fa-sun fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#343a40" d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></svg>
+</button></div></div><div
+class="d-none d-lg-block ml-auto ml-lg-0">
+<a
+class="btn btn-primary--on-dark btn-primary--muted-on-light" href="https://builtformars.com/newsletter">Subscribe for free</a></div><div
+class="d-lg-none site-header__buttons__mm-trigger">
+<button
+class="mobile-menu-trigger bars trigger"
+data-swap="bars:close"
+type="button"
+aria-controls="navbarToggleExternalContent"
+data-target="#mobile-menu"
+aria-expanded="false"
+aria-label="Toggle navigation">
+<span></span>
+<span></span>
+<span></span>
+</button></div></div></div></div><div
+id="mobile-menu" class="site-header__mobile-menu d-lg-none"><div><div
+class="bg-white bg-dark-mode-dark site-header__mobile-menu__content"><ul
+class="no-style"><li>
+<a
+class="text-dark py-3 px-4 border-bottom d-block no-decoration" href="https://builtformars.com/">UX case studies</a></li><li>
+<a
+class="text-dark py-3 px-4 border-bottom d-block no-decoration" href="https://builtformars.com/about">About</a></li><li>
+<a
+class="text-dark py-3 px-4 border-bottom d-block no-decoration" href="https://builtformars.com/audits">Get a UX audit</a></li></ul><div
+class="d-flex mt-4 px-4 justify-content-between pb-4"><div><div>
+<button
+class="small light-only font-weight-bold theme-switch theme-switch--light">
+<span
+class="text-primary bg-white">Light</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="moon" class="svg-inline--fa fa-moon fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#8c8f94" d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"></path></svg>
+</button>
+<button
+class="small dark-only font-weight-bold theme-switch theme-switch--dark">
+<span
+class="text-white bg-dark">Dark</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sun" class="svg-inline--fa fa-sun fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#343a40" d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></svg>
+</button></div></div>
+<a
+class="btn btn-primary--on-dark btn-primary--muted-on-light" href="https://builtformars.com/newsletter">Subscribe for free</a></div></div><div
+class="site-header__mobile-menu__overlay bg-white bg-dark-mode-dark bg-md-dark"></div></div></div></header><main
+class="main-content"><div
+class="w-full  py-24"><div
+class="container"><section
+class="hero-banner escape bg-none"><div
+class="hero-banner__content py-5 container"><div
+class="py-5"><div
+class="row"><div
+class="col-12 col-md-10 offset-md-1 text-lg-center center col-lg-8 offset-lg-2"><p
+class="jumbo">Woah. that doesn&#039;t exist.</p><div><p
+class="mb-0">We can’t find that page anywhere, sorry.</p></div><div
+class="pad-top-80">
+<img
+class="lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="" alt="Whoops!" data-src="https://builtformars.com/uploads/images/404-image.jpeg"/></div></div></div></div></div></section></div></div></main><footer
+class="site-footer"><div
+class="container"><div
+class="site-footer__call-to-action"><div
+class="row"><div
+class="col-12 col-md-8 col-lg-6 text-center offset-md-2 offset-lg-3"><div
+class="site-footer__emoji emoji-block mx-auto large mb-3"><p>&#x1f469;‍&#x1f680;</p></div><p
+class="h2 mb-3">Get your own UX audit</p>
+<a
+class="btn btn-primary--muted right-arrow btn--primary--muted-on-dark" href="https://builtformars.com/audits">Learn more</a></div></div></div><div
+class="site-footer__columns last-child-mb-0 d-flex justify-content-between flex-wrap flex-lg-nowrap align-items-lg-end"><div
+class="primary-links mb-4 mb-lg-5 site-footer__columns__col featured"><div
+class="d-flex align-items-end justify-content-between flex-wrap"><div>
+<img
+class="lazyload " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" width="" alt="Featured Image" data-src="https://builtformars.com/uploads/images/Sittingdown-footer.png"/></div><div
+class="d-lg-none"><div>
+<button
+class="small light-only font-weight-bold theme-switch theme-switch--light">
+<span
+class="text-primary bg-white">Light</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="moon" class="svg-inline--fa fa-moon fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#8c8f94" d="M283.211 512c78.962 0 151.079-35.925 198.857-94.792 7.068-8.708-.639-21.43-11.562-19.35-124.203 23.654-238.262-71.576-238.262-196.954 0-72.222 38.662-138.635 101.498-174.394 9.686-5.512 7.25-20.197-3.756-22.23A258.156 258.156 0 0 0 283.211 0c-141.309 0-256 114.511-256 256 0 141.309 114.511 256 256 256z"></path></svg>
+</button>
+<button
+class="small dark-only font-weight-bold theme-switch theme-switch--dark">
+<span
+class="text-white bg-dark">Dark</span>
+<svg
+aria-hidden="true" focusable="false" data-prefix="fas" data-icon="sun" class="svg-inline--fa fa-sun fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path
+fill="#343a40" d="M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z"></path></svg>
+</button></div></div><div
+class="w-100 mt-3">
+<img
+src="https://builtformars.com/uploads/images/bfm-light-svg.svg" class="light-only" alt='Logo' width='125px' height='16.125px'/>
+<img
+src="https://builtformars.com/uploads/images/bfm-dark-svg_2021-06-08-063506.svg" class="dark-only" alt='Logo' width='125px' height='16.125px'/></div></div><div
+class="text-muted"><p>Built for Mars Ltd is a company registered in England and Wales (Company No. 12731987).</p></div></div><div
+class="primary-links mb-4 mb-lg-5 site-footer__columns__col"><p
+class="mb-0 heading font-weight-bold">UX resources</p><ul><li><a
+href="https://builtformars.com">Case studies</a></li><li><a
+href="https://techcrunch.com/author/pete-ramsey/" target="_blank" rel="noreferrer noopener">TechCrunch</a></li></ul></div><div
+class="primary-links mb-4 mb-lg-5 site-footer__columns__col"><p
+class="mb-0 heading font-weight-bold">Publications</p><ul><li><a
+href="https://builtformars.com/case-studies/ux-of-payments/">UX of Payments</a></li><li><a
+href="https://builtformars.com/case-studies/ux-of-banking/">UX of Banking</a></li></ul></div><div
+class="primary-links mb-4 mb-lg-5 site-footer__columns__col"><p
+class="mb-0 heading font-weight-bold">Commercial</p><ul><li><a
+href="https://builtformars.com/audits">UX audits</a></li></ul></div><div
+class="primary-links mb-4 mb-lg-5 site-footer__columns__col"><p
+class="mb-0 heading font-weight-bold">About</p><ul><li><a
+href="https://builtformars.com/about">About me</a></li><li><a
+href="https://twitter.com/builtformars" target="_blank" rel="noreferrer noopener">Twitter</a></li></ul></div></div></div></footer> <script src="/dist/js/app.107.js" defer></script> <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script> <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebSite","author":{"@id":"#identity"},"copyrightHolder":{"@id":"#identity"},"creator":{"@id":"#creator"},"description":"On a mission to help the world build better user experiences by demystifying UX. Thousands of hours of research packed into UX case studies.","image":{"@type":"ImageObject","url":"https://builtformars.com/uploads/images/_1200x630_fit_center-center_82_none/BuiltforMars-socialimage.jpg?mtime=1622120106"},"name":"Built for Mars — UX case studies"},{"@id":"#identity","@type":"LocalBusiness","priceRange":"$"},{"@id":"#creator","@type":"Organization"}]}</script><script src="https://builtformars.com/freeform/plugin.js?v=c0dce75a3c7b81bfa17b7713c70489d82bfb0a64"></script>
+<script>var Blitz = {};
+
+// The event name will be replaced with the `injectScriptEvent` config setting.
+document.addEventListener('DOMContentLoaded', blitzInject);
+
+function blitzInject() {
+    'use strict';
+
+    Blitz = {
+        inject: {
+            data: document.querySelectorAll('.blitz-inject:not(.blitz-inject--injected)'),
+            loaded: 0
+        }
+    };
+
+    // Use IE compatible events (https://caniuse.com/#feat=customevent)
+    var beforeBlitzInjectAll = document.createEvent('CustomEvent');
+    beforeBlitzInjectAll.initCustomEvent('beforeBlitzInjectAll', false, true, null);
+
+    if (!document.dispatchEvent(beforeBlitzInjectAll)) {
+        return;
+    }
+
+    // Use IE compatible for loop
+    for (var i = 0; i < Blitz.inject.data.length; i++) {
+        var data = Blitz.inject.data[i];
+
+        var values = {
+            id: data.getAttribute('data-blitz-id'),
+            uri: data.getAttribute('data-blitz-uri'),
+            params: data.getAttribute('data-blitz-params')
+        };
+
+        var beforeBlitzInject = document.createEvent('CustomEvent');
+        beforeBlitzInject.initCustomEvent('beforeBlitzInject', false, true, values);
+
+        if (!document.dispatchEvent(beforeBlitzInject)) {
+            return;
+        }
+
+        blitzReplace(values);
+    }
+}
+
+function blitzReplace(values) {
+    'use strict';
+
+    var xhr = new XMLHttpRequest();
+    xhr.onload = function() {
+        if (this.status >= 200 && this.status < 300) {
+            var element = document.getElementById('blitz-inject-' + values.id);
+
+            if (element) {
+                values.element = element;
+                values.responseText = this.responseText;
+
+                element.innerHTML = this.responseText;
+                element.classList.add('blitz-inject--injected');
+            }
+
+            var afterBlitzInject = document.createEvent('CustomEvent');
+            afterBlitzInject.initCustomEvent('afterBlitzInject', false, false, values);
+            document.dispatchEvent(afterBlitzInject);
+        }
+
+        Blitz.inject.loaded++;
+
+        if (Blitz.inject.loaded >= Blitz.inject.data.length) {
+            var afterBlitzInjectAll = document.createEvent('CustomEvent');
+            afterBlitzInjectAll.initCustomEvent('afterBlitzInjectAll', false, false, null);
+            document.dispatchEvent(afterBlitzInjectAll);
+        }
+    };
+
+    xhr.open("GET", values.uri + (values.params && "?" + values.params));
+    xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+    xhr.send();
+};
+function app() {
+               return {
+                  viewportHeight: null,
+                  viewportHeight() {
+                     viewportHeight = window.innerHeight * 0.01; 
+                     document.documentElement.style.setProperty('--vh', `${viewportHeight}px`);
+                  }
+               }
+            };</script></body></html>
